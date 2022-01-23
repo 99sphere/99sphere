@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=99sphere@gmail.com)]
 
 <!--
 **99sphere/99sphere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
