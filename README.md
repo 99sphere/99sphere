@@ -1,5 +1,5 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=모양&color=auto&height=높이&section=header&text=텍스트&fontSize=폰트크기)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=10&section=header&text=Hi there!&fontSize=10)
 
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=99sphere)
 
