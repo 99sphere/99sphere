@@ -1,5 +1,5 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=100&section=header&text=Hi&fontSize=10)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=100&section=header&text=Hi&fontSize=10)
 
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=99sphere)
 
